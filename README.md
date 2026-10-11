@@ -18,10 +18,10 @@
 
 ## 🛠️ Habilidades Técnicas
 
-**Lenguajes:** SQL, Python, Java, JavaScript (en progreso), Bash
-**Bases de Datos:** PostgreSQL, MySQL
-**Herramientas:** Git, GitHub, Linux, QGIS, ArcGIS, VS Code
-**Otros:** Data Analysis, GIS, Scripting
+- **Lenguajes:** SQL, Python, Java, JavaScript (en progreso), Bash
+- **Bases de Datos:** PostgreSQL, MySQL
+- **Herramientas:** Git, GitHub, Linux, QGIS, ArcGIS, VS Code
+- **Otros:** Data Analysis, GIS, Scripting
 
 ---
 
